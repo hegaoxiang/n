@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CMakeASMInformation.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CMakeASM_MASMInformation.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckCXXCompilerFlag.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckCXXSourceRuns.cmake
+D:/repos/nori2/nori/ext/tbb/CMakeLists.txt
+D:/repos/nori2/nori/ext/tbb/build/version_string.ver.in
+D:/repos/nori2/tt/CMakeFiles/3.16.2/CMakeASM_MASMCompiler.cmake

@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CMakePackageConfigHelpers.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckCSourceCompiles.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckLibraryExists.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/FindPackageMessage.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/FindThreads.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/WriteBasicConfigVersionFile.cmake
+D:/repos/nori2/nori/ext/nanogui/ext/glfw/CMake/modules/FindVulkan.cmake
+D:/repos/nori2/nori/ext/nanogui/ext/glfw/CMakeLists.txt
+D:/repos/nori2/nori/ext/nanogui/ext/glfw/src/glfw3.pc.in
+D:/repos/nori2/nori/ext/nanogui/ext/glfw/src/glfw3Config.cmake.in
+D:/repos/nori2/nori/ext/nanogui/ext/glfw/src/glfw_config.h.in

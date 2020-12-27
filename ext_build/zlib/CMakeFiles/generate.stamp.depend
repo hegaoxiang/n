@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckCSourceCompiles.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckFunctionExists.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckIncludeFileCXX.cmake
+D:/Download/cmake-3.16.2-win32-x86/cmake-3.16.2-win32-x86/share/cmake-3.16/Modules/CheckTypeSize.cmake
+D:/repos/nori2/nori/ext/zlib/CMakeLists.txt
+D:/repos/nori2/nori/ext/zlib/zconf.h.cmakein
+D:/repos/nori2/nori/ext/zlib/zlib.pc.cmakein
